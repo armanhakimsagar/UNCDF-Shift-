@@ -1,0 +1,113 @@
+ body{
+  background-color: #CFCDCD !important;
+ }
+
+ #map{ 
+ 	height: 900px;
+  width: 100%; 
+  position:relative;
+  border: 10px solid #ffffff;
+  margin-bottom: 2%;
+ padding: 5px;
+ background-color: #ffffff;
+ padding: 2%;
+   }
+#mapdiv{ 
+    	height: 900px;
+      width: 100%; 
+      position:relative;
+      border: 10px solid #ffffff;
+      margin-bottom: 2%;
+     padding: 5px;
+     background-color: #ffffff;
+     padding: 2%;
+    	display: none;
+    	
+      
+    	 }
+.legend i{
+  width: 5em;
+  float: left;
+   }
+
+.Division{
+      background: white; line-height: 1.5em;
+    }
+    
+#upzillaDiv{
+ height: 900px;
+      width: 100%; 
+      position:relative;
+      border: 10px solid #ffffff;
+      margin-bottom: 2%;
+     padding: 5px;
+     background-color: #ffffff;
+     padding: 2%;
+      display: none;
+      
+}
+
+.informationdiv{
+width: 200px;
+position: absolute;
+margin: 80px;
+color: #000;
+margin-top: 150px;
+text-align: center;
+padding: 10px;
+z-index: 999;
+ background: transparent;
+}
+
+.divisinname{
+  font-size: 30px;
+  font-weight: 1000;
+ background: transparent;
+ color: #000000;
+}
+.rightSideInformation{
+  width: 230px;
+position: absolute;
+right: 0px !important;
+color: red;
+font-weight: bold;
+font-size: 40px !important;
+margin-top: 20px;
+text-align: center;
+padding: 10px;
+float: right;
+background-color:lightgreen;
+min-height: 530px;
+opacity: 0.7;
+z-index: 999;
+opacity: 0.5;
+}
+
+
+
+.totalIncident{
+  font-size: 25px !important;
+  font-weight: bold;
+}
+
+
+.division_name{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.incedent_header{
+  font-size: 20px;
+  font-weight: bold;
+  color: #000000 !important;
+}
+
+
+#datepicker1 >span{
+  cursor: pointer;
+}
+
+#datepicker2 >span{
+  cursor: pointer;
+}
+

@@ -1,0 +1,280 @@
+/*----*****---- << 2.4. Footer >> ----*****----*/
+
+#footer {
+    width: 100%;
+    float: left;
+    clear: both;
+    margin: 0px;
+    color: white;
+}
+.footer-widgets {
+    padding: 50px 0px 20px;
+    width: 100%;
+    float: left;
+    clear: both;
+    margin: 0px;
+    background-color: #1dc42e;
+}
+.footer-widgets .widget {
+    float: left;
+    clear: both;
+    width: 100%;
+    margin-bottom: 30px;
+}
+#footer .container {
+    z-index: 9;
+}
+.footer-copyright .alignright img {
+    float: right;
+}
+.footer-copyright {
+    float: left;
+    margin: 0px;
+    padding: 30px 0px;
+    width: 100%;
+    clear: both;
+}
+.copyright-left {
+    width: 48%;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+}
+.copyright-right {
+    float: right;
+    margin: 0px;
+    padding: 0px;
+    width: 48%;
+    text-align: right;
+}
+.footer-copyright .menu-links {
+    text-align: right;
+    margin: 0px;
+    padding: 0px;
+}
+.footer-copyright .menu-links li {
+    margin: 0px 0px 0px 29px;
+    display: inline-block;
+    padding: 0px;
+    float: none;
+}
+.aligncenter .menu-links {
+    text-align: center;
+}
+.aligncenter .menu-links li {
+    float: none;
+    display: inline-block;
+    text-align: center;
+}
+.menu-links.with-splitter li {
+    margin: 0px;
+}
+.footer-copyright .menu-links.with-splitter li a {
+    padding: 0px 15px;
+    border-right: 1px solid;
+}
+.footer-copyright .menu-links.with-splitter li:last-child a {
+    border-right: 0px;
+}
+.copyright-align-center {
+    text-align: center;
+}
+.copyright-align-center .copyright-left,
+.copyright-align-center .copyright-right,
+.copyright-align-center .dt-sc-sociable,
+.copyright-align-center .copyright-right {
+    text-align: center;
+    width: 100%;
+    float: left;
+    clear: both;
+    margin: 10px 0px;
+}
+.copyright-align-center .menu-links,
+.copyright-align-center .dt-sc-sociable {
+    text-align: center;
+}
+.copyright-align-center .menu-links li,
+.copyright-align-center .dt-sc-sociable li,
+.copyright-align-center .dt-sc-sociable li a {
+    float: none;
+    display: inline-block;
+    text-align: center;
+}
+.custom-social li a span {
+    margin: 0px 10px 0px 0px;
+    font-size: 18px;
+    width: 20px;
+    text-align: center;
+}
+.widget_text ul.custom-social li a {
+    padding: 0px 0px 25px;
+}
+.widget_text ul.custom-social li:last-child a {
+    padding: 0px;
+}
+#footer .mailchimp-form {
+    margin: 40px 0px 0px;
+    position: relative;
+}
+#footer .mailchimp-form input[type="email"] {
+    font-size: 14px;
+    font-weight: normal;
+    width: 100%;
+    padding: 15px;
+    float: left;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+#footer .mailchimp-form input[type="submit"] {
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 400;
+    position: absolute;
+    right: 0px;
+    border-radius: 0px 5px 5px 0px;
+    padding: 15px;
+    margin: 0px;
+}
+.copyright-right .dt-sc-sociable {
+    text-align: right;
+    width: 100%;
+}
+.copyright-right .dt-sc-sociable li {
+    float: none;
+    display: inline-block;
+    text-align: right;
+}
+.widget .dt-sc-newsletter-section.boxed {
+    border-top: 3px solid;
+    float: left;
+    clear: both;
+    margin: -110px 0px 0px;
+    text-align: center;
+    background: #fff;
+}
+.dt-sc-dark-bg .widget .dt-sc-newsletter-section.boxed h2 {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: normal;
+    margin-bottom: 7px;
+    width: 100%;
+    margin-top: 18px;
+}
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm {
+    margin-top: 10px;
+    padding: 30px;
+    box-sizing: border-box;
+}
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm input[type="text"] {
+    margin-bottom: 25px;
+}
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm input[type="email"],
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm input[type="text"] {
+    border: 1px solid;
+    border-radius: 0px;
+}
+.widget .dt-sc-newsletter-section.boxed .dt-sc-subscribe-frm input[type="submit"] {
+    position: inherit;
+    margin: 30px 0px 0px;
+    border-top: 3px solid;
+    font-size: 14px;
+    text-transform: uppercase;
+    width: 100%;
+    border-radius: 0px;
+    font-weight: normal;
+}
+.widget_text ul.dt-sc-sociable {
+    text-align: center;
+}
+.widget_text ul.dt-sc-sociable li {
+    float: none;
+    display: inline-block;
+    text-align: center;
+    clear: none;
+    margin: 0px 10px;
+}
+.widget_text ul.dt-sc-sociable li a {
+    float: none;
+    display: inline-block;
+    padding-bottom: 0px;
+}
+.column.first {
+    margin-left: 0px;
+    clear: both;
+}
+.column.first {
+    margin-left: 0px;
+    clear: both;
+}
+.dt-sc-one-half {
+    width: 49%;
+}
+.column {
+    margin: 0px 0px 0px 2%;
+        margin-left: 2%;
+    float: left;
+    min-height: 1px;
+    position: relative;
+    box-sizing: border-box;
+}
+.dt-sc-one-half {
+    width: 54%;
+}
+.column {
+    margin: 0px 0px 0px 2%;
+    float: left;
+    min-height: 1px;
+    position: relative;
+    box-sizing: border-box;
+}
+.widget ul {
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+    float: left;
+    clear: both;
+}
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+}
+ul, ol, pre, code {
+    margin-bottom: 20px;
+}
+ol, ul {
+    list-style: none;
+        list-style-type: none;
+        list-style-position: outside;
+}
+.dt-sc-one-fourth {
+    width: 20.5%;
+}
+.footer-widgets a, #footer a {
+    color: rgba(255, 255, 255, 0.6);
+}
+.footer-widgets.dt-sc-dark-bg a, #footer .dt-sc-dark-bg a, #footer .dt-sc-dark-bg, .footer-widgets a, #footer a, #footer {
+    color: #ffffff;
+}
+.widget.widget_archive ul li:first-child > a, .widget.widget_categories ul li:first-child > a, .widget.widget_pages ul li:first-child > a, .widget.widget_meta ul li:first-child > a, .widget.widget_nav_menu ul.menu li:first-child > a, .widget.widget_text ul li:first-child > a {
+    padding-top: 0px;
+}
+.footer-widgets .widget_text .textwidget li a {
+    padding-top: 0;
+}
+.widget.widget_archive ul li > a, .widget.widget_categories ul li > a, .widget.widget_pages ul li > a, .widget.widget_meta ul li > a, .widget.widget_nav_menu ul.menu li > a, .widget.widget_text ul li > a {
+    padding: 10px 0px 10px 20px;
+        padding-top: 10px;
+}
+.widget ul li > a, .widget.widget_nav_menu ul.menu li > a {
+    display: inline-block;
+    line-height: 24px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.copyright_text, .copyright_text a{
+    color: #1dc42e;
+}
+.copyright_text a{
+    color: #1dc42e !important;
+    font-weight: bold !important;
+}

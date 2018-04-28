@@ -1,0 +1,20 @@
+My total 13 working days & Problem :
+
+
+
+1. labtop hanover & then again change issue spend 5 days
+
+2. git problem spend .5 days
+
+3. crud application for research & training panel & view in website spend 4 days
+
+4. sweet alert warning before ajax delete for multiple file , music , video
+
+   picture for research & training spend 3 days.
+   
+   
+5. rich editor apply & active all button & plugging for research & training spend 2 days.
+
+6. frontend design issue spend 1 days. 
+   
+   

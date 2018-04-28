@@ -1,0 +1,38 @@
+@charset "utf-8";
+
+/*CSS Document*/
+/*author: ZRC-Struggling*/
+/*website: https://github.com/ZRC-Struggling*/
+
+.simple-tab { font-size: 14px; }
+
+.simple-tab>ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.simple-tab>ul>li {
+  cursor: pointer;
+  display: inline-block;
+  background-color: #666;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 8px 8px 0 0;
+}
+
+.simple-tab>ul>li.active {
+  background-color: #fafafa;
+  color: black;
+}
+
+.simple-tab>div {
+  padding: 10px 20px;
+  background-color: #fafafa;
+  color: black;
+  border-radius: 0 8px 8px;
+}
+
+.simple-tab>div>div { display: none; }
+
+.simple-tab>div>div.active { display: block; }

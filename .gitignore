@@ -1,0 +1,4 @@
+.env
+/nbproject
+/vendor/
+/public/project/backend/research/

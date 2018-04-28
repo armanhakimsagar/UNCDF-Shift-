@@ -1,0 +1,22 @@
+
+ul{ margin: 0px; padding: 0px;}
+ul li{ list-style-type: none;}
+.clear{ clear: both;}
+
+/*Accordion css start*/
+.accordion_panel{
+        margin: 0px;
+}
+.accordion_panelbox{ margin-bottom:0px;    background: #dad8d5;}
+.accordion_panelbox.active{background-color: #f1d711;}
+.accordion_panelbox.active .accordion_title h4{font-weight: 600;}
+.accordion_title{padding: 10px 15px; cursor: pointer;}
+.accordion_title h4{ font-size: 17px; background: url(images/plus.png) no-repeat right center; margin: 0px;} 
+.accordion_content{border-top: 0px; border-bottom-left-radius: 0px; border-bottom-right-radius: 0px; padding: 10px 15px; background: #fdfdfd; display: none;}
+.accordion_panelbox.in .accordion_content{ display: block;}
+/*Accordion css end*/
+.text a{
+    font-weight: 700;
+}
+.text a:visited{color: #3c77bb;}
+.text a:hover{color: #f1d711;}

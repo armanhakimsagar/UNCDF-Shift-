@@ -1,0 +1,62 @@
+body{
+    font-family: arial;
+}
+.masthead{
+    width: 100%;
+    height: 51px;
+    background-color: #074e02;
+}
+.top_head_menu_text{
+    font-size: 15px;
+    text-transform: uppercase;
+    color: white;
+    line-height: 11.9pt;
+    padding: 15px;
+}
+.navbar-default{
+    background-color: #1dc42e;
+}
+.navbar-default .navbar-brand{
+    color: white;
+}
+.footer {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    /*margin-top: 40px;*/
+    border-top: none;
+}
+
+.categoryFilter {
+    width: 300px;
+    height: 250px;
+    border: 1px solid black;
+    position: relative;
+    z-index: 999;
+    margin-top: 100px;
+    margin-left: 25px;
+    background-color: black;
+    opacity: 0.5;
+}
+.custom_map_filter_select {
+    outline: medium none currentcolor;
+    width: 99%;
+    height: 42px;
+    padding: 5px;
+    font-size: 15px;
+    margin: 5px 5px;
+    color: #000;
+    /* text-align: center; */
+}
+.map_left_side_area{
+    background-color: #1dc42e;
+    padding: 5px 15px;
+    color: white !important;
+    border: 10px solid #ffffff;
+}
+
+.jumbotron {
+    background-color: white;
+    box-shadow: 0px 0px 10px silver;
+    padding-top: 14px;
+    margin-top: 21px;
+}

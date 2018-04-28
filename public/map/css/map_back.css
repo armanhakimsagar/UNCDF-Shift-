@@ -1,0 +1,46 @@
+ .back_to_bangladesh{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+    z-index: 999;
+    background-color: #1dc42e;
+    position: absolute;
+   }
+   .link_back_for_bangladesh{
+    color:#ffffff !important;
+    z-index: 1000;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+   }
+
+   .back_to_division{
+    min-width: 200px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 5px;
+    z-index: 999;
+    background-color: #1dc42e;
+    position: absolute;
+    cursor: pointer;
+   }
+   .link_back_for_division{
+    color:#ffffff !important;
+    z-index: 1000;
+    cursor: pointer;
+    padding: 5px;
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+   }
+.lng_division{
+    display: none;
+}
+
+.lat_division{
+    display: none;
+}

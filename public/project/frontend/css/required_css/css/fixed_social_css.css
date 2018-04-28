@@ -1,0 +1,21 @@
+
+.social_link_fixed_style {
+    position: absolute;
+    z-index: 999999999999;
+    left: -52px;
+    top: 72px;
+    right: 65px;
+    width: 31px;
+    height: 30px;
+    background: #292870;
+    text-align: center;
+    color: white;
+    border-radius: 2px;
+    cursor: pointer;
+}
+.social_link_fixed_style p{
+    color: black;
+    font-size: 11px;
+    line-height: 10px;
+    font-weight: bold;
+}

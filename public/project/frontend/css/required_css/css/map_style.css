@@ -1,0 +1,141 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 21, 2018, 3:05:24 PM
+    Author     : Tanveer Qureshee
+*/
+
+.categoryFilter {
+    width: 300px;
+    height: 250px;
+    /*border: 1px solid black;*/
+    position: absolute;
+    z-index: 9999;
+    margin-top: 10px;
+    margin-left: 5%;
+    /*background-color: black;*/
+    /*opacity: 0.5;*/
+    top: 1px;
+}
+.styled-select {
+   background: url(http://i62.tinypic.com/15xvbd5.png) no-repeat 96% 0;
+   height: 58px;
+   overflow: hidden;
+   width: 305px;
+}
+
+.styled-select select {
+   background: white;
+   border: none;
+   font-size: 14px;
+   height: 58px;
+   padding: 5px; /* If you add too much padding here, the options won't show in IE */
+   width: 305px;
+}
+/*.styled-select select option{
+   width: 305px !important;
+}*/
+
+.styled-select.slate {
+   /*background: url(../img/map/2e3ybe2.jpg) no-repeat right center;*/
+   height: 58px;
+   width: 285px;
+}
+
+.styled-select.slate select {
+   border: 1px solid #ccc;
+   font-size: 16px;
+   height: 58px;
+   width: 285px;
+   
+}
+
+/* -------------------- Rounded Corners */
+.rounded {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+}
+
+/* -------------------- Colors: Background */
+.cream   { background-color: #FEFCFF !important; }
+
+.categoryFilterTotalSummery {
+    width: 254px;
+    height: 370px;
+    position: absolute;
+    z-index: 999;
+    margin-top: 10px;
+    margin-right: 10px;
+    background-color: RGB(214,214,212);
+    float: right !important;
+    opacity: .7;
+    top:0;
+    right: 0;
+}
+
+hr.summery_total_hr{
+    width: 80%;
+    height: 1px !important;
+    border: 1px solid black;
+    color: #0F070A;
+    background-color: #0F070A;
+    margin-top: -20px;
+}
+
+.slidecontainer {
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    width: 100%;
+    height: 25px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+.slider_container_holder{
+    background-color: #FEFCFF;
+    width: 95%;
+    height: 100px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.slider_range_paragrapg{
+    font-size: 15px;
+    text-align: center;
+    font-weight: bold;
+}
+p.summery_total{
+    font-size: 20.9pt;
+    line-height: 19.1pt;
+    padding: 16px;
+    font-weight: bold;
+    color: #292870;
+}

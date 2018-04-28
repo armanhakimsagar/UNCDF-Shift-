@@ -1,0 +1,141 @@
+.categoryFilterTotalSummery{
+                text-align: center;
+                font-size: 40px;
+                
+              }
+            .dhaka_div{
+              position: absolute;
+              margin-left: 550px;
+              margin-top: 200px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+            }
+            .dhaka_div p{
+                  color: green;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+            }
+            .Rajshahi{
+               position: absolute;
+              margin-left: 450px;
+              margin-top: 200px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+            }
+            .Rajshahi p{
+                  color: red;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+            }
+
+          .shylet_div{
+            position: absolute;
+              margin-left: 660px;
+              margin-top: 190px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+          }
+          .shylet_div p{
+                  color: blue;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+          }
+
+          .Rangpur{
+            position: absolute;
+              margin-left: 460px;
+              margin-top: 80px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+          }
+          .Rangpur p{
+               color: #7e0cba;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+          }
+
+          .Chittagong{
+            position: absolute;
+              margin-left: 660px;
+              margin-top: 330px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+          }
+
+          .Chittagong p{
+               color: #fe6800;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+          }
+
+           .Barisal{
+            position: absolute;
+              margin-left: 550px;
+              margin-top: 380px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+          }
+
+          .Barisal p{
+               color: #27679d;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+          }
+
+           .Khulna{
+            position: absolute;
+              margin-left: 450px;
+              margin-top: 380px;
+              border-radius: 50%;
+              height: 40px;
+             z-index: 999;
+              width: 50px;
+          }
+
+          .Khulna p{
+                color: #ff006c;
+    background-color: transparent;
+    font-size: 30px;
+    font-weight: bold;
+          }
+
+
+  p.summery_total {
+    font-size: 15px;
+    line-height: inherit;
+    padding: 5px;
+    font-weight: bold;
+    color: #292870;
+}
+
+.categoryFilterTotalSummery .all_total{
+      font-size: 35px;
+    margin-bottom: 23px;
+    margin-top: 76px;
+    color: #191862;
+    margin-top: 45px;
+}
+.categoryFilterTotalSummery .total_number{
+   font-size: 20px;
+    padding: 20px 30px 0px 30px;
+    color: #000;
+    font-weight: 600; 
+}
